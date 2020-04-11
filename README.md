@@ -1,6 +1,6 @@
-[click here to visit](https://jilpatel.me/)
+### [click here to visit](https://jilpatel.me/)
 
-# [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
+### [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
 ## Copyright and License
 
