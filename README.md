@@ -1,4 +1,4 @@
-### [click here to visit](https://jilpatel.me/)
+### [click here to visit](https://jilpatel13.github.io/Personal-Portfolio/)
 
 #### [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
